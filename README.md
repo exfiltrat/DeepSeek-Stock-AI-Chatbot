@@ -1,5 +1,7 @@
 # Stock Analysis AI Chatbot
 
+[Demo Website](https://deepseek-stock-ai-chatbot.streamlit.app/)
+
 An interactive Streamlit application that provides AI-powered stock market analysis using real-time data.
 
 ## Features
