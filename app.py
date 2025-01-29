@@ -249,7 +249,7 @@ def main():
 
     except Exception as e:
         # logging.error(f"Application error: {str(e)}")
-        st.error("An error occurred. Please refresh the page.")
+        st.error("FMP API limit (250 requests per day) reached. Try again tomorrow.")
 
 
 if __name__ == "__main__":
